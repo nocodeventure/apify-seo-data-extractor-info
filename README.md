@@ -258,8 +258,6 @@ Detect hreflang issues, charset problems, and localization opportunities.
 - **No subscriptions** - Use it when you need it
 - **Cost controls everywhere** - Set limits, control usage
 
-**ROI Example:** A 500-page audit costs $1. That's less than your coffee budget.
-
 ---
 
 ## 🔧 Developer Integration Examples
