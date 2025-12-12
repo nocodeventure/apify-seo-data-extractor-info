@@ -3,7 +3,7 @@
 **Tired of spending hours manually checking SEO elements?** What if you could extract comprehensive SEO data from hundreds of pages in minutes? Meet the SEO Data Extractor - the game-changing tool that's revolutionizing how SEO professionals, agencies, and businesses approach web analysis.
 
 [![Try it FREE now](https://img.shields.io/badge/🚀_Try_FREE-Now!-brightgreen?style=for-the-badge)](https://console.apify.com/actors/nocodeventure/seo-data-extractor)
-[![Only $2/1K results](https://img.shields.io/badge/💰_Pricing-$2_per_1K_results-blue?style=for-the-badge)](https://apify.com/nocodeventure/seo-data-extractor#pricing)
+[![Only $2/1K results](https://img.shields.io/badge/💰_Pricing-From_$2_per_1K_results-blue?style=for-the-badge)](https://apify.com/nocodeventure/seo-data-extractor/pricing)
 
 ---
 
