@@ -154,18 +154,6 @@ Technically yes, but ethically? That's between you and your conscience. Always c
 
 ---
 
-## 🎁 Bonus: Free SEO Audit Template
-
-Download our **professional SEO audit template** that works perfectly with this tool's output. Includes:
-- Executive summary dashboard
-- Technical SEO scorecard
-- Content optimization recommendations
-- Competitor comparison matrix
-
-**Get it free when you try the tool!**
-
----
-
 ## 🚀 Ready to Supercharge Your SEO Workflow?
 
 Stop wasting time on manual SEO checks. Start getting comprehensive, actionable data in minutes.
