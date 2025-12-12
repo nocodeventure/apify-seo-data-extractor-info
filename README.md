@@ -102,7 +102,6 @@ Get granular insights into competitor SEO strategies without getting caught or w
 
 - **Pay only for successful extractions** (even errors give you valuable data)
 - **No monthly fees** - Use it when you need it
-- **Free trial available** - Test before you commit
 - **Cost controls built-in** - Set spending limits, control concurrency
 
 Compare that to:
