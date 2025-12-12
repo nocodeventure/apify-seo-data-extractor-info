@@ -35,16 +35,6 @@ Every output is clean JSON - perfect for importing into your favorite tools:
 
 ---
 
-## 💡 Real-World Success Stories
-
-**"This tool saved us 40 hours on our last enterprise audit. The structured data made reporting effortless!"** - Sarah K., Enterprise SEO Manager
-
-**"We discovered 300+ missing alt tags across our client's site. Revenue impact? $50K+ in organic traffic."** - Mike R., SEO Consultant
-
-**"Competitor analysis that used to take days now takes minutes. Game-changer for our agency."** - Lisa T., Digital Marketing Director
-
----
-
 ## 🚀 How It Works (In 3 Simple Steps)
 
 1. **Drop Your URLs** - Paste up to 100 URLs (or thousands with the API)
